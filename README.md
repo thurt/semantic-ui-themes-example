@@ -36,4 +36,10 @@ An important point to understand: the CSS files described in the documentation (
 
 Now when you start your project (via `npm start`), the components that you import from `semantic-ui-react` will be styled by the theme you selected in the **Customization** section.
 
+You can now change themes whenever you want, then rebuild the css file to see the changes in your CRA.
+
 ref: https://github.com/Semantic-Org/Semantic-UI-CSS
+
+## Preview
+
+![preview](preview.png)
