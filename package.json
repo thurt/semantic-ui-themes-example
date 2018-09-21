@@ -1,0 +1,22 @@
+{
+  "name": "semantic-ui-themes-example",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-scripts": "1.1.5",
+    "semantic-ui-react": "^0.82.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "forest-themes-css": "^0.2.0",
+    "semantic-ui": "^2.4.0"
+  }
+}
